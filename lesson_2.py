@@ -10,4 +10,3 @@
         nf = nf//10
         s *= 10
     emerald = factorial//(s / 10)
-    print (emerald)
