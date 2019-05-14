@@ -9,7 +9,7 @@ class my_work:
     for i in range(2, N+1):
       factorial *= i
     emerald = factorial
-    while emerald > 10:
+    while emerald > 9:
       emerald //= 10
     return emerald
 
