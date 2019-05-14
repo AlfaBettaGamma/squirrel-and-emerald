@@ -1,4 +1,4 @@
-def squirrel(self, N):
+def squirrel(N):
   factorial = 1
   nf = 0
   if(N == 0 or N == 1):
